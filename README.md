@@ -6,9 +6,7 @@ No API keys. No network calls. No black box. Every number can be
 traced back to its inputs, and every draft commentary is marked
 for human review before it goes to a board or investor.
 
-Built by Diana Kwon, SVP Corporate FP&A at Citi, from the daily
-finance-AI work of turning a monthly close into a decision:
-variance, forecast, runway, and a one-page pack.
+Built by Diana Kwon.
 
 ## What it does
 
